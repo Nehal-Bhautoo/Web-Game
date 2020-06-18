@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48d7ccda-2f7e-4988-a8a0-7803d3fda1a5" name="Default Changelist" comment="" />
+    <list default="true" id="48d7ccda-2f7e-4988-a8a0-7803d3fda1a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/LOD.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/2k_sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/4_moon_global_1k_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/Clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/ESO_-_Milky_Way.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/Earth-hires.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/Spec Mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/earth-animation-webgl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/earth_texture_map_1000px.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/lens-flare-textures-by-brandondorf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/solarviews.com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/stars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/demo123/thumb.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +39,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aUVq4RrgAMKWXDpaLvGA4uVAa0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,17 +54,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/model" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\www\assets\model" />
       <recent name="C:\xampp\htdocs\www\js" />
+      <recent name="C:\xampp\htdocs\www\assets\model" />
       <recent name="C:\Users\DELL\Desktop\3D_Model\js\ThreeJS" />
     </key>
   </component>
@@ -61,7 +86,7 @@
       <workItem from="1592208014842" duration="3119000" />
       <workItem from="1592302245320" duration="105000" />
       <workItem from="1592302400255" duration="56000" />
-      <workItem from="1592494924961" duration="9963000" />
+      <workItem from="1592494924961" duration="12361000" />
     </task>
     <servers />
   </component>
