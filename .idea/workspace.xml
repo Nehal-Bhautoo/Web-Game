@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48d7ccda-2f7e-4988-a8a0-7803d3fda1a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aUVq4RrgAMKWXDpaLvGA4uVAa0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/model" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www\assets\model" />
+      <recent name="C:\xampp\htdocs\www\js" />
+      <recent name="C:\Users\DELL\Desktop\3D_Model\js\ThreeJS" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48d7ccda-2f7e-4988-a8a0-7803d3fda1a5" name="Default Changelist" comment="" />
+      <created>1586790347365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586790347365</updated>
+      <workItem from="1586790354765" duration="1922000" />
+      <workItem from="1586792400142" duration="1626000" />
+      <workItem from="1586794096432" duration="6074000" />
+      <workItem from="1587053431007" duration="1639000" />
+      <workItem from="1592208014842" duration="3119000" />
+      <workItem from="1592302245320" duration="105000" />
+      <workItem from="1592302400255" duration="56000" />
+      <workItem from="1592494924961" duration="9963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1759" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587054046958">
+      <screen x="1366" y="0" width="1280" height="720" />
+    </state>
+    <state x="419" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1586802220326" />
+    <state x="1759" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1280.720@1366.0.1280.720" timestamp="1587054046958" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1592302369811">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592302369811" />
+    <state x="470" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586790662370">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="470" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1586790662370" />
+    <state x="406" y="13" key="refactoring.ChangeSignatureDialog" timestamp="1592501395717">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="406" y="13" key="refactoring.ChangeSignatureDialog/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592501395717" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1592502083891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592502083891" />
+  </component>
+</project>
