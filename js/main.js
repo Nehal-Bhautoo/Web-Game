@@ -1,6 +1,6 @@
 let scene = new THREE.Scene();
-scene.background = new THREE.Color("#6d6d6d");
-let camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+// scene.background = new THREE.Color("#343434");
+let camera = new THREE.PerspectiveCamera(90, window.innerWidth / window.innerHeight, 0.1, 1000);
 let renderer = new THREE.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
@@ -13,6 +13,26 @@ window.addEventListener('resize', function () {
 });
 
 THREE.controls = new THREE.OrbitControls(camera, renderer.domElement);
+let starGeo = new THREE.Geometry();
+let star;
+for (let i = 0; i < 6000; i++) {
+    star = new THREE.Vector3(
+        Math.random() * 600 - 300,
+        Math.random() * 600 - 300,
+        Math.random() * 600 - 300
+    );
+    starGeo.vertices.push(star);
+}
+
+let sprite = new THREE.TextureLoader().load("assets/star.png");
+let starMaterial = new THREE.PointsMaterial({
+    color: 0xaaaaaa,
+    size: 0.7,
+    map: sprite
+});
+
+let stars = new THREE.Points(starGeo, starMaterial);
+scene.add(stars);
 
 //load model
 
@@ -21,8 +41,8 @@ objectLoader.setPath('assets/model/Gargoyle/');
 objectLoader.load('Gargoyle_1.obj', function (object) {
     scene.add(object);
     object.position.y -= 70; //positioning the model in the scene
-    object.position.x += 10;
-    object.translateZ(10);
+    object.position.x += 20;
+    object.translateZ(5);
 });
 
 camera.position.z = 3;

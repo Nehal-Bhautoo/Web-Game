@@ -2,9 +2,9 @@
  * @author mrdoob / http://mrdoob.com/
  */
 
-import { RGBAFormat, RGBFormat } from '../constants.js';
+import { RGBAFormat, RGBFormat } from './constants.js';
 import { ImageLoader } from './ImageLoader.js';
-import { Texture } from '../textures/Texture.js';
+import { Texture } from './textures/Texture.js';
 import { Loader } from './Loader.js';
 
 function TextureLoader( manager ) {
