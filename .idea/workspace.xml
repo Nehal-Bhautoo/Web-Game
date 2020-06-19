@@ -2,181 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48d7ccda-2f7e-4988-a8a0-7803d3fda1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/EventDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Face3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Geometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Layers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/LineBasicMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/LineDashedMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Material.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Materials.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshBasicMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshDepthMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshDistanceMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshLambertMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshMatcapMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshNormalMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshPhongMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshPhysicalMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshStandardMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MeshToonMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Object3D.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/PointsMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/RawShaderMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ShaderMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ShadowMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/SpriteMaterial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/BufferAttribute.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/BufferAttribute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/BufferGeometry.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/BufferGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Clock.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Clock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/DirectGeometry.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/DirectGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/EventDispatcher.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/EventDispatcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Face3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Face3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Geometry.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Geometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InstancedBufferAttribute.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InstancedBufferAttribute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InstancedBufferGeometry.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InstancedBufferGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InstancedInterleavedBuffer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InstancedInterleavedBuffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InterleavedBuffer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InterleavedBuffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InterleavedBufferAttribute.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/InterleavedBufferAttribute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Layers.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Layers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Object3D.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Object3D.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Raycaster.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Raycaster.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Uniform.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/core/Uniform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/Earcut.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/ImageUtils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/ImageUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/PMREMGenerator.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/PMREMGenerator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/ShapeUtils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/ShapeUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Curve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Curve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/CurvePath.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/CurvePath.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Font.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Font.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Interpolations.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Interpolations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Path.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Shape.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/Shape.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/ShapePath.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/core/ShapePath.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/ArcCurve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/ArcCurve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/CatmullRomCurve3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/CatmullRomCurve3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/CubicBezierCurve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/CubicBezierCurve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/CubicBezierCurve3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/CubicBezierCurve3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/Curves.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/Curves.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/EllipseCurve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/EllipseCurve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/LineCurve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/LineCurve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/LineCurve3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/LineCurve3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/QuadraticBezierCurve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/QuadraticBezierCurve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/QuadraticBezierCurve3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/QuadraticBezierCurve3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/SplineCurve.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/curves/SplineCurve.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/objects/ImmediateRenderObject.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/extras/objects/ImmediateRenderObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Box2.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Box2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Box3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Box3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Color.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Color.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Cylindrical.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Cylindrical.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Euler.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Euler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Frustum.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Frustum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Interpolant.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Interpolant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Line3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Line3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/MathUtils.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/MathUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Matrix3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Matrix3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Matrix4.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Matrix4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Plane.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Plane.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Quaternion.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Quaternion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Ray.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Ray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Sphere.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Sphere.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Spherical.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Spherical.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/SphericalHarmonics3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/SphericalHarmonics3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Triangle.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Triangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Vector2.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Vector2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Vector3.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Vector3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Vector4.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/Vector4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/CubicInterpolant.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/CubicInterpolant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/DiscreteInterpolant.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/DiscreteInterpolant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/LinearInterpolant.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/LinearInterpolant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/QuaternionLinearInterpolant.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/math/interpolants/QuaternionLinearInterpolant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/CanvasTexture.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/CanvasTexture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/CompressedTexture.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/CompressedTexture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/CubeTexture.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/CubeTexture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DataTexture.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DataTexture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DataTexture2DArray.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DataTexture2DArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DataTexture3D.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DataTexture3D.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DepthTexture.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/DepthTexture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/Texture.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/Texture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/VideoTexture.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/textures/VideoTexture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/AmbientLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/AmbientLightProbe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/CircleGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DirectionalLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/DirectionalLightShadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/HemisphereLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/HemisphereLightProbe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/LightProbe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/LightShadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/PointLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/PointLightShadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/RectAreaLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/SphereGeometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/SpotLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/SpotLightShadow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/DELL.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/DELL.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/model/male.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1Diffuse1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1_Mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1_normals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/star.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/star.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/TextureLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/TextureLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/BufferGeometryLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/BufferGeometryLoader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/MeshBasicMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/MeshBasicMaterial.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,6 +75,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www\assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\www\js" />
       <recent name="C:\xampp\htdocs\www\assets" />
@@ -247,7 +103,7 @@
       <workItem from="1592302245320" duration="105000" />
       <workItem from="1592302400255" duration="56000" />
       <workItem from="1592494924961" duration="13351000" />
-      <workItem from="1592558309892" duration="3781000" />
+      <workItem from="1592558309892" duration="19660000" />
     </task>
     <servers />
   </component>
@@ -255,6 +111,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592579358338">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592579358338" />
     <state x="1759" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587054046958">
       <screen x="1366" y="0" width="1280" height="720" />
     </state>
@@ -272,9 +132,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="406" y="13" key="refactoring.ChangeSignatureDialog/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592501395717" />
-    <state x="339" y="172" key="run.anything.popup" timestamp="1592502083891">
+    <state x="339" y="172" key="run.anything.popup" timestamp="1592576294864">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="339" y="172" key="run.anything.popup/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592502083891" />
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592576294864" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1592575049719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592575049719" />
   </component>
 </project>

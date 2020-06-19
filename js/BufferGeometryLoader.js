@@ -1,11 +1,11 @@
-import { Sphere } from '../math/Sphere.js';
-import { Vector3 } from '../math/Vector3.js';
-import { BufferAttribute } from '../core/BufferAttribute.js';
-import { BufferGeometry } from '../core/BufferGeometry.js';
+import { Sphere } from './math/Sphere.js';
+import { Vector3 } from './math/Vector3.js';
+import { BufferAttribute } from './core/BufferAttribute.js';
+import { BufferGeometry } from './core/BufferGeometry.js';
 import { FileLoader } from './FileLoader.js';
 import { Loader } from './Loader.js';
-import { InstancedBufferGeometry } from '../core/InstancedBufferGeometry.js';
-import { InstancedBufferAttribute } from '../core/InstancedBufferAttribute.js';
+import { InstancedBufferGeometry } from './core/InstancedBufferGeometry.js';
+import { InstancedBufferAttribute } from './core/InstancedBufferAttribute.js';
 
 /**
  * @author mrdoob / http://mrdoob.com/
