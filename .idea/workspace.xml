@@ -2,34 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48d7ccda-2f7e-4988-a8a0-7803d3fda1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/space.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/AmbientLight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/AmbientLightProbe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/CircleGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/DirectionalLight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/DirectionalLightShadow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/HemisphereLight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/HemisphereLightProbe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/Light.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/LightProbe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/LightShadow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/PointLight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/PointLightShadow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/RectAreaLight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/SphereGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/SpotLight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/SpotLightShadow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/DELL.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/DELL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rock-obj/rock.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rock-obj/rock.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/utils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1.mtl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1Diffuse1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1_Mask.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/model/Gargoyle/Gargoyle_1_normals.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/star.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/space.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/space.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/BufferGeometryLoader.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/BufferGeometryLoader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/MeshBasicMaterial.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/MeshBasicMaterial.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,20 +47,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\www\assets" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\www\js" />
       <recent name="C:\xampp\htdocs\www\assets" />
+      <recent name="C:\xampp\htdocs\www\js" />
       <recent name="C:\xampp\htdocs\www\assets\model" />
       <recent name="C:\Users\DELL\Desktop\3D_Model\js\ThreeJS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www\assets" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -103,7 +81,8 @@
       <workItem from="1592302245320" duration="105000" />
       <workItem from="1592302400255" duration="56000" />
       <workItem from="1592494924961" duration="13351000" />
-      <workItem from="1592558309892" duration="19660000" />
+      <workItem from="1592558309892" duration="22095000" />
+      <workItem from="1592647132913" duration="3060000" />
     </task>
     <servers />
   </component>

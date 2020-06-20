@@ -27,7 +27,7 @@ THREE.controls = new THREE.OrbitControls(camera, renderer.domElement);
 // create star
 let starGeo = new THREE.Geometry();
 let star;
-for (let i = 0; i < 6000; i++) {
+for (let i = 0; i < 4000; i++) {
     star = new THREE.Vector3(
         Math.random() * 600 - 300,
         Math.random() * 600 - 300,
@@ -42,7 +42,7 @@ for (let i = 0; i < 6000; i++) {
 let sprite = new THREE.TextureLoader().load("assets/star.png");
 let starMaterial = new THREE.PointsMaterial({
     color: 0xaaaaaa,
-    size: 0.7,
+    size: 0.5,
     map: sprite
 });
 
@@ -67,10 +67,27 @@ mtlLoader.load('star-wars-vader-tie-fighter.mtl', function (materials) {
     });
 });
 
-let planet = new THREE.SphereGeometry(50, 40, 40);
-let material = new THREE.MeshBasicMaterial( {color: 0xffff00} );
-let sphere = new THREE.Mesh( planet, material );
+let sun = new THREE.SphereGeometry(50, 40, 40);
+let material = new THREE.MeshBasicMaterial( {color: 0xffffff} );
+let sphere = new THREE.Mesh( sun, material );
 scene.add(sphere);
+
+// rock
+let materiallod = new THREE.MTLLoader();
+materiallod.setPath('assets/rock-obj/');
+materiallod.load('rock.mtl', function (materials) {
+    materials.preload();
+
+    let rockObj = new THREE.OBJLoader();
+    rockObj.setMaterials(materials);
+    rockObj.setPath('assets/rock-obj/');
+    rockObj.load('rock.obj', function (object) {
+        scene.add(object);
+        object.position.y -= 30; //positioning the model in the scene
+        object.position.x += 50;
+        object.translateZ(5);
+    });
+});
 
 
 let starMovement = function() {
