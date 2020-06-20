@@ -14,8 +14,10 @@ window.addEventListener('resize', function () {
 });
 
 // Create lights
-let light = new THREE.PointLight(0xEEEEEE);
-scene.add(light);
+scene.add(new THREE.AmbientLight( 0xffffff ) );
+let pointLight = new THREE.PointLight( 0xffffff );
+pointLight.position.set( 0, 100, 0 );
+scene.add( pointLight );
 
 // set background
 const loader = new THREE.TextureLoader();
@@ -67,10 +69,20 @@ mtlLoader.load('star-wars-vader-tie-fighter.mtl', function (materials) {
     });
 });
 
-let sun = new THREE.SphereGeometry(50, 40, 40);
-let material = new THREE.MeshBasicMaterial( {color: 0xffffff} );
-let sphere = new THREE.Mesh( sun, material );
-scene.add(sphere);
+//sun
+let sun = new THREE.MTLLoader();
+sun.setPath('assets/sun-v3-obj/');
+sun.load('sun-v3.mtl', function (materials) {
+    materials.preload();
+
+    let rockObj = new THREE.OBJLoader();
+    rockObj.setMaterials(materials);
+    rockObj.setPath('assets/sun-v3-obj/');
+    rockObj.load('sun-v3.obj', function (object) {
+        scene.add(object);
+    });
+});
+
 
 // rock
 let materiallod = new THREE.MTLLoader();
@@ -107,7 +119,6 @@ camera.position.z = 3;
 
 // logic
 let update = function () {
-    light.position.set(20, 0, 20);
     //starMovement();
 };
 
