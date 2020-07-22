@@ -83,7 +83,6 @@ sun.load('sun-v3.mtl', function (materials) {
     });
 });
 
-
 // rock
 let materiallod = new THREE.MTLLoader();
 materiallod.setPath('assets/rock-obj/');
@@ -114,6 +113,7 @@ let starMovement = function() {
     starGeo.verticesNeedUpdate = true;
     stars.rotation.y += 0.002;
 };
+
 
 camera.position.z = 3;
 

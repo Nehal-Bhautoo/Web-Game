@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48d7ccda-2f7e-4988-a8a0-7803d3fda1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/sun-v3-obj/8215152495_1314368ae2_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sun-v3-obj/sun-v3.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sun-v3-obj/sun-v3.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sun-v3-obj/suntex.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/space.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/space.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -84,7 +78,8 @@
       <workItem from="1592302400255" duration="56000" />
       <workItem from="1592494924961" duration="13351000" />
       <workItem from="1592558309892" duration="22095000" />
-      <workItem from="1592647132913" duration="5902000" />
+      <workItem from="1592647132913" duration="6015000" />
+      <workItem from="1594910403158" duration="2669000" />
     </task>
     <servers />
   </component>
@@ -117,9 +112,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="339" y="172" key="run.anything.popup/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592576294864" />
-    <state x="346" y="89" key="search.everywhere.popup" timestamp="1592575049719">
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1592655961542">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592575049719" />
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.720@0.0.1366.768" timestamp="1592655961542" />
   </component>
 </project>
